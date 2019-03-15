@@ -38,6 +38,15 @@ li{
    }
 #corp{
 	color: #060606;
-	text-align-last: 
+	font-size: 20px;
     }
+#ingredient{
+	text-align: center;
+	color: #EC1212;
+	font-size: 20px;
 
+}
+.image{
+	text-align: center;
+
+}
