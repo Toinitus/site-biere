@@ -1,14 +1,17 @@
+
+
+
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
 		<title>site bière</title>
 		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="style.css">
+		 <link rel="stylesheet" type="text/css" href="style.css"> 
 	</head>
 	<body>
 		<header>
 		<div id="header-title">
-			<h1>La petite bière écologique</h1>
+			<h1>Les bières</h1>
 		</div>
 		</header>
 		<div class ="image" style="text-align: center;">
@@ -16,8 +19,9 @@
 		</div>
 		<nav>
 			<ul>
-				<li><a href="index.html">Présentation de la bière</a></li>
+				<li><a href="index.php">Présentation de la bière</a></li>
 				<li><a href="presentation.html">Présentation de l'entreprise</a></li>
+				<li><a href="produit.php">Les produits</a></li>
 			</ul>
 		</nav>
 		<div id="corp">
@@ -33,4 +37,4 @@
 		<p> C'est une bière française élaboré en france elle est délicatement sucré en bouche de 5 degrés. Crée par Julien et Kevin cette petit douceur</p>	
 		</div>	
 	</body>
-</html> a
+</html> 
