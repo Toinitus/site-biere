@@ -59,3 +59,26 @@ $beerArray = [
 
 
 ?>
+ <?php  
+for ($i=0; $i < count($beerArray); $i++) { 
+        echo '<div>';              
+}
+?>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Les bières</title>
+</head>
+<body>
+	<header>
+	
+	</header>
+	<footer>
+		
+	</footer>
+</body>
+</html>
