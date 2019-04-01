@@ -1,6 +1,6 @@
 body{
-	background-color: #33C4FF;
-	color: #55FF33;
+	background-color: #FFFFFF;
+	color: #0C0C0C;
 }
 
 li{
@@ -41,3 +41,6 @@ li{
 	text-align-last: 
     }
 
+.resizeImage {
+	width: 20px;
+}
