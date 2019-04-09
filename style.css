@@ -1,0 +1,36 @@
+li{
+	list-style: none;
+}
+.pasbeau{
+	color: red;
+	background-color: white;
+}
+.container{
+  		margin: 0 auto;
+  		width: 20%;
+		text-align: right;
+		display: flex;
+		flex-direction: center;
+	}
+h1{
+	text-align: center;
+	color: red;
+	margin: 0%;
+}	
+.titre{
+	text-align: right;
+	width: 54.5%
+}
+
+h2{
+	text-align: center;
+	margin: 0%;
+	color: red;
+}
+.choisir{
+	;
+}
+button{
+	color: white;
+	background-color: black;
+}

@@ -22,6 +22,7 @@
 				<li><a href="index.php">Présentation de la bière</a></li>
 				<li><a href="presentation.html">Présentation de l'entreprise</a></li>
 				<li><a href="produit.php">Les produits</a></li>
+				<li><a href="purchaseOrder.php">Achetez</a></li>
 			</ul>
 		</nav>
 		<div id="corp">
