@@ -1,11 +1,11 @@
 <?php
 if(!empty($_POST)){
-	$prenom = strtolower($_POST["prenom"]);
-	$nom = strtolower($_POST["nom"]);
-	$adresse = strtolower($_POST["adresse"]);
+	$prenom = ($_POST["prenom"]);
+	$nom = ($_POST["nom"]);
+	$adresse = ($_POST["adresse"]);
 	$codePostal = $_POST["codePostal"];
-	$ville = strtolower($_POST["ville"]);
-	$pays = strtolower($_POST["pays"]);
+	$ville = ($_POST["ville"]);
+	$pays = ($_POST["pays"]);
 	$email = $_POST["email"];
 	$password = $_POST["password"];
 	$passwordVerif = $_POST["password_verif"];
