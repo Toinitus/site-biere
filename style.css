@@ -5,13 +5,18 @@ li{
 	color: red;
 	background-color: white;
 }
-.container{
-  		margin: 0 auto;
-  		width: 20%;
-		text-align: right;
-		display: flex;
-		flex-direction: center;
-	}
+.formu{
+	
+	width:180px;
+	padding: 0 10px;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 22px;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	border-radius: 2px;
+
+}
 h1{
 	text-align: center;
 	color: red;
