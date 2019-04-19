@@ -37,7 +37,7 @@ if(!empty($_POST)){
 					/*if($result){
 						$_SESSION["connect"] = true;
 						$_SESSION["username"] = $username;
-						header("Location: http://localhost/testconnexion/page.php");
+						header("Location: http://localhost/site-biere/inscription.php");
 					}else{
 						die("erreur enregistrement en bdd");
 						// TODO : signaler erreur
