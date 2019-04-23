@@ -17,6 +17,7 @@ require_once "listeCUT.php";
 		<li><a  class="pasbeau" href="index.php">Accueil</a></li>
 		<li><a href="inscription.php">Inscription</a></li>
 		<li><a href="connexion.php">Connexion</a></li>
+		<li><a href="deconnexion.php">Déconnexion</a></li>
 	</ul>
 	<div class="titre">
 		<h3>Formulaire d'achat</h3>
