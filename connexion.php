@@ -28,7 +28,8 @@ if(!empty($_POST)){
 			if (password_verify($password, $useremail["password"])){
 					
 					$_SESSION["connect"] = true;
-					$_SESSION["useremail"] = $useremail;
+					$_SESSION["id"] = $useremail["id"];
+					$_SESSION["email"] = $useremail["email"];
 					header("Location: http://localhost/site-biere/compte.php");
 			}else{
 				header("HTTP/1.0 403 Forbidden");

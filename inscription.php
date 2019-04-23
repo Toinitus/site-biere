@@ -34,14 +34,13 @@ if(!empty($_POST)){
                     ":password" => $password,
                     ":phone" => $phone
                 ]);
-					/*if($result){
-						$_SESSION["connect"] = true;
-						$_SESSION["username"] = $username;
-						header("Location: http://localhost/site-biere/inscription.php");
+					if($result){
+					
+						header("Location: http://localhost/site-biere/connexion.php");
 					}else{
 						die("erreur enregistrement en bdd");
 						// TODO : signaler erreur
-					}*/
+					}
 				}else{
 					die("mdp différents");
 					// TODO : signaler que mdp non identiques
